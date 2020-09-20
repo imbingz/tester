@@ -8,16 +8,16 @@ Deployed Site link
  # Project Title
 
 ## Table of Content
-* [Project Links ](#Project-Links)
+* [ Project Links ](#Project-Links)
 * [ Screenshots ](#Screenshots)
 * [ Description ](#Desciption)
 * [ Technologies ](#Technologies)
 * [ Installation ](#Installation)
 * [ Usage ](#Usage)
-* [Credits and Reference ](#Credits-and-Reference)
+* [ Credits and Reference ](#Credits-and-Reference)
 * [ License ](#License)
-* [Tests](#Tests)
-* [Author Info](#Author-Info]
+* [ Tests ](#Tests)
+* [ Author Info ](#Author-info)
 #
 
 
