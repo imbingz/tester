@@ -6,31 +6,25 @@ Deployed Site link
  https://imbingz.github.io/tester/
  
  # Project Title
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub followers](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)
-![node-current](https://img.shields.io/node/v/c?color=blueviolet)
-![npm](https://img.shields.io/npm/v/npm?color=important&logo=npm)
-![Twitter Follow](https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social)
 
 <p align="center">
   <a href="https://github.com/imbingz" target="_blank">
-    <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow"  target="_blank">
+    <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
   </a>
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
-    <img alt="license-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg"  target="_blank"/>
+    <img alt="license-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
   </a>
   <a href="https://choosealicense.com/licenses/apache-2.0/"  target="_blank">
-    <img alt="license-apache" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"  target="_blank"/>
+    <img alt="license-apache" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="node.js" src="https://img.shields.io/node/v/c?color=blueviolet"  target="_blank"/>
+    <img alt="node.js" src="https://img.shields.io/node/v/c?color=blueviolet" />
   </a>
   <a href="https://www.npmjs.com/package/inquirer" target="_blank">
-    <img alt="npm" src="https://img.shields.io/npm/v/npm?color=important&logo=npm"  target="_blank"/>
+    <img alt="npm" src="https://img.shields.io/npm/v/npm?color=important&logo=npm" />
   </a>
-  <a href="https://twitter.com/imbingz"  target="_blank">
-    <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social" target="_blank" />
+  <a href="https://twitter.com/imbingz" target="_blank">
+    <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social" />
   </a>
 </p>
 
