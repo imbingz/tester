@@ -14,6 +14,9 @@ Deployed Site link
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
     <img alt="license-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
   </a>
+  <a href="https://choosealicense.com/licenses/mit/" target="_blank">
+    <img alt="license-mozilla" src="https://img.shields.io/badge/License-Mozilla-Public%2.0-9cf.svg" />
+  </a>
   <a href="https://choosealicense.com/licenses/apache-2.0/"  target="_blank">
     <img alt="license-apache" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" />
   </a>
