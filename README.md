@@ -54,3 +54,4 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 
 ## Author Info
 
+_This README was generated with ❤️ by [Author Name](https://github.com/github-username/Project-title)_
