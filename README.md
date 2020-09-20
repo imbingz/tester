@@ -15,13 +15,13 @@ Deployed Site link
     <img alt="license-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
   </a>
   <a href="https://choosealicense.com/licenses/mpl-2.0/" target="_blank">
-    <img alt="license-mozilla" src="https://img.shields.io/badge/License-Mozilla%202.0-blue.svg" />
+    <img alt="license-mozilla" src="https://img.shields.io/badge/License-Mozilla%20GPL%202.0-blue.svg" />
   </a>
   <a href="https://choosealicense.com/licenses/apache-2.0/"  target="_blank">
     <img alt="license-apache" src="https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg" />
   </a>
   <a href="https://choosealicense.com/licenses/gpl-3.0/"  target="_blank">
-    <img alt="license-gnu" src="https://img.shields.io/badge/License-GNU%203.0-success.svg" />
+    <img alt="license-gnu" src="https://img.shields.io/badge/License-GNU%20GPLv3-success.svg" />GNU 
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="node.js" src="https://img.shields.io/node/v/c?color=blueviolet" />
