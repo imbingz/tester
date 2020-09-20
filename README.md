@@ -31,7 +31,8 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 
 ## Screenshots 
 <kbd>![screenshot-mobile](./assets/images/m1.png)</kbd>
-[ License-MIT ](https://img.shields.io/badge/license-MIT-brightgreen)
+[ License-MIT ](https://img.shields.io/github/license/imbingz/tester?color=brightgreen&label=License&message=MIT)
+
 
 ## Description 
 
