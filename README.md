@@ -9,7 +9,7 @@ Deployed Site link
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub followers](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)
-![node-current](https://img.shields.io/node/v/c?color=purple)
+![node-current](https://img.shields.io/node/v/c?color=blueviolet)
 ![npm](https://img.shields.io/npm/v/npm?color=orange&logo=npm)
 ![Twitter Follow](https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social)
 
