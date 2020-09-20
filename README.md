@@ -7,7 +7,7 @@ Deployed Site link
  
  # Project Title
 
-<p align="center">
+<p>
   <a href="https://github.com/imbingz" target="_blank">
     <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
   </a>
