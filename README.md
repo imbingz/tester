@@ -18,7 +18,10 @@ Deployed Site link
     <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
   </a>
   <a href="https://choosealicense.com/licenses/mit/">
-    <img alt="License-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" target="_blank" />
+    <img alt="license-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" target="_blank" />
+  </a>
+  <a href="https://choosealicense.com/licenses/apache-2.0/">
+    <img alt="license-apache" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" target="_blank" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="node.js" src="https://img.shields.io/node/v/c?color=blueviolet" />
