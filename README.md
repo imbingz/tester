@@ -9,7 +9,7 @@ Deployed Site link
 
 ## Table of Content
 * [ Project Links ](#Project-Links)
-* [ Screenshots ](#Screenshots)
+* [ Screenshots / Demo ](#Screenshots)
 * [ Description ](#Desciption)
 * [ Technologies ](#Technologies)
 * [ Installation ](#Installation)
