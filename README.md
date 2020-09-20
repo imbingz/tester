@@ -21,7 +21,7 @@ Deployed Site link
     <img alt="license-apache" src="https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg" />
   </a>
   <a href="https://choosealicense.com/licenses/gpl-3.0/"  target="_blank">
-    <img alt="license-gnu" src="https://img.shields.io/badge/License-GNU%303.0-success.svg" />
+    <img alt="license-gnu" src="https://img.shields.io/badge/License-GNU%203.0-success.svg" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="node.js" src="https://img.shields.io/node/v/c?color=blueviolet" />
