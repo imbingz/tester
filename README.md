@@ -6,6 +6,7 @@ Deployed Site link
  https://imbingz.github.io/tester/
  
  # Project Title
+![GitHub](https://img.shields.io/github/license/imbingz/tester?color=brightgreen&label=License&message=MIT)
 
 ## Table of Content
 * [ Project Links ](#Project-Links)
@@ -32,7 +33,7 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 ## Screenshots 
 <kbd>![screenshot-mobile](./assets/images/m1.png)</kbd>
 
-![GitHub](https://img.shields.io/github/license/imbingz/tester?color=brightgreen&label=License&message=MIT)
+
 
 
 ## Description 
@@ -51,6 +52,7 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 * [reference 1 ] (reference url link)
 
 ## License
+[MIT](MIT)
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 Copyright © 2020 [Author Name](https://github.com/github-username).
 
