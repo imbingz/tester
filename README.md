@@ -22,35 +22,35 @@ Deployed Site link
 
 
 ##  Project Links
-#### Website Link
+
 https://imbingz.github.io/Ultimate-Streaming-Guide/
 
-#### Work-Files Link
 https://github.com/imbingz/Ultimate-Streaming-Guide
 
 
 
-### Screenshots 
+## Screenshots 
+<kbd>![screenshot-mobile](./assets/images/m1.png)</kbd>
+
+## Description 
 
 
-
-### Description 
-
-
-### Technologies 
+## Technologies 
 
 
-### Installation
+## Installation
 
 
-###  Usage 
-
-### Credits and Reference
+##  Usage 
 
 
-### License
+## Credits and Reference
+
+
+## License
 ##### MIT License
 
-### Tests
-### Author Info
+## Tests
+
+## Author Info
 
