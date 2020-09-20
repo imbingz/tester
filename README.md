@@ -13,6 +13,24 @@ Deployed Site link
 ![npm](https://img.shields.io/npm/v/npm?color=important&logo=npm)
 ![Twitter Follow](https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social)
 
+<p align="center">
+  <a href="https://github.com/imbingz">
+    <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
+  </a>
+  <a href="https://choosealicense.com/licenses/mit/">
+    <img alt="License-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" target="_blank" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="node.js" src="https://img.shields.io/node/v/c?color=blueviolet" />
+  </a>
+  <a href="https://www.npmjs.com/package/inquirer" target="_blank">
+    <img alt="npm" src="https://img.shields.io/npm/v/npm?color=important&logo=npm" />
+  </a>
+  <a href="https://twitter.com/imbingz">
+    <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social" target="_blank" />
+  </a>
+</p>
+
 
 ## Table of Content
 * [ Project Links ](#Project-Links)
