@@ -45,10 +45,11 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 
 
 ## Credits and Reference
-
+* [reference 1 ] (reference url link)
 
 ## License
-##### MIT License
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
+Copyright © 2020 [Author Name](https://github.com/github-username).
 
 ## Tests
 
