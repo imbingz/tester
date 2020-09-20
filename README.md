@@ -30,6 +30,8 @@ Deployed Site link
 
 ##  Project Links
 
+Github Username & Github Repo-Name
+
 https://imbingz.github.io/Ultimate-Streaming-Guide/
 
 https://github.com/imbingz/Ultimate-Streaming-Guide
@@ -37,9 +39,9 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 
 
 ## Screenshots 
-<kbd>![screenshot-mobile](./assets/images/m1.png)</kbd>
+<kbd>![screenshot-demo](./assets/images/m1.png)</kbd>
 
-
+<kbd>![screenshot-demo]("image file path")</kbd>
 
 
 ## Description 
@@ -65,5 +67,8 @@ Copyright © 2020 [Author Name](https://github.com/github-username).
 ## Tests
 
 ## Author Info
+Contact me with any questions! < /br>
+Github Username: imbingz
 
-_This README was generated with ❤️ by [Author Name](https://github.com/github-username/Project-title)_
+
+_This README was generated with ❤️ by [Github Username](https://github.com/github-username/Project-title)_
