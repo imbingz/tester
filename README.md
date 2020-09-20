@@ -7,6 +7,7 @@ Deployed Site link
  
  # Project Title
 ![GitHub](https://img.shields.io/github/license/imbingz/tester?color=brightgreen&label=License&message=MIT)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Table of Content
 * [ Project Links ](#Project-Links)
