@@ -7,7 +7,7 @@ Deployed Site link
  
  # Project Title
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![License](https://img.shields.io/badge/License-MIT%202.0-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 
 
