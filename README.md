@@ -95,3 +95,69 @@ Github Username: imbingz
 
 
 _This README was generated with ❤️ by [Github Username](https://github.com/github-username/Project-title)_
+
+
+ 
+  # Github README GENERATOR
+
+  <p>
+  <a href="https://github.com/imbingz" target="_blank">
+    <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
+  </a>
+  <a href="https://choosealicense.com/licenses/mpl-2.0/" target="_blank">
+    <img alt="license-mit" src="https://img.shields.io/badge/License-MPL-2.0-brightgreen.svg" />
+  </a>
+</p>
+
+  ## Table of Content
+  * [ Project Links ](#Project-Links)
+  * [ Screenshots / Demo ](#Screenshots)
+  * [ Description ](#Desciption)
+  * [ Technologies ](#Technologies)
+  * [ Installation ](#Installation)
+  * [ Usage ](#Usage)
+  * [ Credits and Reference ](#Credits-and-Reference)
+  * [ Tests ](#Tests)
+  * [ Contact Author ](#Contact-Author)
+  * [ License ](#License)
+  #
+
+  ##  Project Links
+  https://github.com/imbingz/Github-Readme-Template
+
+  ## Screenshots / Demo
+  <kbd>![screenshot-demo](undefined)</kbd>
+  
+  ## Description 
+
+  #### Project Objective
+  build a readme
+  
+  #### User Story
+  with everything 
+
+  ## Technologies 
+  java, npm, node.js
+
+  ## Installation
+  install my repo file
+
+  ## Usage 
+  downloand node npm inquirer
+  
+  ## Credits and Reference
+  so many party i want to thank for
+
+  ## Tests
+  optional
+
+  ## Contact Author
+  Contact the author with any questions! < /br>
+  Github link: [imbingz](https://github.com/imbingz)
+  Email: b@x.c
+
+  ## License
+  This project is [MPL-2.0](https://choosealicense.com/licenses/mpl-2.0/) licensed.<br />
+
+  Copyright © 2020 [BING Z]
+
