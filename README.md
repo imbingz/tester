@@ -33,7 +33,9 @@ Deployed Site link
     <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/imbingz?label=Follow&style=social" />
   </a>
 </p>
-
+<a href="https://twitter.com/imbingz" target="_blank">
+    <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/undefined?label=Follow&style=social" />
+  </a>
 
 ## Table of Content
 * [ Project Links ](#Project-Links)
