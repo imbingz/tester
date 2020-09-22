@@ -10,7 +10,7 @@ Deployed Site link
 
  [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
  
-  [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz})
+  [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
   [![project-languages-used](https://img.shields.io/github/languages/count/imbingz/tester?color=important)](https://github.com/imbingz/tester)
   [![project-top-language](https://img.shields.io/github/languages/top/imbingz/tester?color=blueviolet)](https://github.com/imbingz/tester)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
