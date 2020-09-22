@@ -79,7 +79,7 @@ https://github.com/imbingz/Ultimate-Streaming-Guide
 ## Screenshots 
 <kbd>![screenshot-demo](./assets/images/m1.png)</kbd>
 
-<kbd>![screenshot-demo]("image file path")</kbd>
+<kbd>![screenshot-demo]("unfefined")</kbd>
 
 
 ## Description 
