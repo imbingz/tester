@@ -100,8 +100,8 @@ Copyright © 2020 [Author Name](https://github.com/github-username).
 Contact me with any questions! < /br>
 Github Username: imbingz
 
-<p align='center'><small>
-_This README was generated with ❤️ by [Github Username](https://github.com/github-username/Project-title)_
- </small></p>
+<p align='center'><i>
+This README was generated with ❤️ by [Github Username](https://github.com/github-username/Project-title)
+ </i></p>
 
 
