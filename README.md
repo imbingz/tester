@@ -5,10 +5,12 @@ Deployed Site link
 
  https://imbingz.github.io/tester/<br>
  https://github.com/imbingz/ithub-Readme-Template<br>
-  google.com, youtube.com
+
  # Project Title
 
 <p >
+ [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](hhttps://github.com/imbingz)
+ 
   <a href="https://github.com/imbingz" target="_blank">
     <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
   </a>
