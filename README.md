@@ -11,12 +11,12 @@ Deployed Site link
   <a href="https://github.com/imbingz" target="_blank">
     <img src="https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social" alt="github-follow">
   </a>
- <a href="https://github.com/imbingz" target="_blank">
-    <img src="https://img.shields.io/github/languages/count/imbingz/tester" alt="project-languages-used">
+ <a href="https://github.com/imbingz/tester" target="_blank">
+    <img src="https://img.shields.io/github/languages/count/imbingz/tester?color=important" alt="project-languages-used">
   </a>
  
- <a href="https://github.com/imbingz" target="_blank">
-    <img src="https://img.shields.io/github/languages/top/imbingz/tester" alt="project-top-language">
+ <a href="https://github.com/imbingz/tester" target="_blank">
+    <img src="https://img.shields.io/github/languages/top/imbingz/tester?color=blueviolet" alt="project-top-language">
   </a>
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
     <img alt="license-MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
