@@ -14,8 +14,8 @@ Deployed Site link
   [![project-languages-used](https://img.shields.io/github/languages/count/imbingz/tester?color=important)](https://github.com/imbingz/tester)
   [![project-top-language](https://img.shields.io/github/languages/top/imbingz/tester?color=blueviolet)](https://github.com/imbingz/tester)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
-  [![node.js](https://https://img.shields.io/node/v/c?color=blueviolet)](https://nodejs.org/en/)
-  [![npm](https://https://img.shields.io/npm/v/npm?color=important&logo=npm)](https://www.npmjs.com/package/inquirer)
+  [![node.js](https://img.shields.io/node/v/c?color=pink)](https://nodejs.org/en/)
+  [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
  
  
  
