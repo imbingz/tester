@@ -57,7 +57,7 @@ Deployed Site link
   </a>
 
 # FUR LODGE 
-### -- An APP To Find A Loving Host For Our FURRRRIENDS
+## -- An APP To Find A Loving Host For Our FURRRRIENDS
 <hr>
 
   [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
@@ -93,7 +93,7 @@ Deployed Site link
   <kbd>![screenshot-demo1](./assets/images/)</kbd><kbd>![screenshot-demo2](./assets/images/)</kbd>
   
   ## Project Objective
-  * To create an Airbnb-like pet boarding marketplace connecting pet owners with people(host) who are willing to take care of the pets while their owners are away. Find our beloved furriends a real home to stay and play when we are away. 
+  * To create an Airbnb-like pet boarding marketplace connecting pet owners with people(hosts) who are willing to take care of the pets while their owners are away. Find our beloved furriends a real home to stay and play when we are away. 
   * It uses express-handlebars, Foundation CSS framework and jQuery lirary for the front-end.
   * It utilizes node.js, express.js, express-session, bcryptjs, passport, passport-local strategy, sequelize, mysql2 for the back-end. 
   * It features a mobile-first, a clean and polished user interface and adapts to multiple screen sizes.
@@ -105,8 +105,12 @@ Deployed Site link
 
   ## Technologies 
   ```
-  node.js, npm, express.js, express-session, bcryptjs, passport, passport-local strategy, sequelize, mysql2, express-handlebars, Foundation CSS framework, jQuery and heroku. 
+  node.js, npm, express.js, express-session, bcryptjs, passport, passport-local strategy,
   ```
+   ```
+ sequelize, mysql2, express-handlebars, Foundation CSS framework, jQuery and heroku. 
+  ```
+  
   
   ## Installation
   Access to GitHub.com and a code editor such as vscode is necessary. Click the GitHub link provided above to the APP REPO. Click on the green button that says Clone or Download and Choose how you would like to download: using the SSH/HTTPS keys or download the zip file. If using SSH/HTTPS Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. If using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and open it. 
@@ -124,16 +128,16 @@ Deployed Site link
   ## Author Contact
   Contact the author with any questions!<br>
   Github link: [imbingz](https://github.com/imbingz), [cboswel1](https://github.com/cboswel1), [tdmoore004](https://github.com/tdmoore004),  [vivid-green](https://github.com/vivid-green)<br>
-  Email: contact.bingz@gmail.com
+  
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 
-   Copyright © 2020 [BING Z](https://imbingz.github.io/Responsive-Website-Portfolio/), [Christian Boswell](https://github.com/cboswel1), [Tanner Moore](https://github.com/tdmoore004), [Zachary Creek](https://github.com/vivid-green)
+   Copyright © 2020 [Bing Z.](https://imbingz.github.io/Responsive-Website-Portfolio/), [Christian Boswell](https://github.com/cboswel1), [Tanner Moore](https://github.com/tdmoore004), [Zachary Creek](https://github.com/vivid-green)
 
   <hr>
   <p align='center'><i>
-  This README was generated with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> BING Z, </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
+  This README was generated with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> Bing Z., </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
 </i></p>
 
 
