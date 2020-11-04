@@ -56,7 +56,8 @@ Deployed Site link
     <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/undefined?label=Follow&style=social" />
   </a>
 
-# FUR LODGE - AN APP TO FIND A LOVING HOST FOR OUR FURRRRIENDS
+# FUR LODGE 
+### -- AN APP TO FIND A LOVING HOST FOR OUR FURRRRIENDS
 <hr>
 
   [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
