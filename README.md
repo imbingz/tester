@@ -55,7 +55,8 @@ Deployed Site link
 <a href="https://twitter.com/imbingz" target="_blank">
     <img alt="twitter-follow" src="https://img.shields.io/twitter/follow/undefined?label=Follow&style=social" />
   </a>
-FUR LODGE - AN AIRBNB FOR OUR FRURIENDS
+  <hr>
+# FUR LODGE - AN APP TO FIND A LOVING HOST FOR OUR FURRRRIENDS
 <hr>
 
   [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
@@ -127,11 +128,11 @@ FUR LODGE - AN AIRBNB FOR OUR FRURIENDS
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 
-   Copyright © 2020 [BING Z](https://imbingz.github.io/Responsive-Website-Portfolio/), [Christian](https://github.com/cboswel1), [Tanner Moore](https://github.com/tdmoore004), [Zachary Creek](https://github.com/vivid-green)
+   Copyright © 2020 [BING Z](https://imbingz.github.io/Responsive-Website-Portfolio/), [Christian Boswell](https://github.com/cboswel1), [Tanner Moore](https://github.com/tdmoore004), [Zachary Creek](https://github.com/vivid-green)
 
   <hr>
   <p align='center'><i>
-  This README was generated with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> BING Z, </a> <a href="https://github.com/cboswel1"> Christian, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
+  This README was generated with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> BING Z, </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
 </i></p>
 
 
