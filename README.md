@@ -57,7 +57,7 @@ Deployed Site link
   </a>
 
 # FUR LODGE 
-### -- AN APP TO FIND A LOVING HOST FOR OUR FURRRRIENDS
+### -- An APP To Find A Loving Host For Our FURRRRIENDS
 <hr>
 
   [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/imbingz)
@@ -83,10 +83,10 @@ Deployed Site link
 
   ##  Project Links
 
-  #### Deployed site on heroku
-  https://glacial-gorge-49813.herokuapp.com/
-  #### Github REPO link
-  https://github.com/imbingz/fur-lodge
+  ##### Deployed site on heroku: https://glacial-gorge-49813.herokuapp.com/
+  
+  ##### Github REPO link:  https://github.com/imbingz/fur-lodge
+ 
 
 
   ## Screenshots-Demo
