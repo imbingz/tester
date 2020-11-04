@@ -86,8 +86,6 @@ Deployed Site link
   ##### Deployed site on heroku: https://glacial-gorge-49813.herokuapp.com/
   
   ##### Github REPO link:  https://github.com/imbingz/fur-lodge
- 
-
 
   ## Screenshots-Demo
   <kbd>![screenshot-demo1](./assets/images/)</kbd><kbd>![screenshot-demo2](./assets/images/)</kbd>
@@ -111,7 +109,6 @@ Deployed Site link
  sequelize, mysql2, express-handlebars, Foundation CSS framework, jQuery and heroku. 
   ```
   
-  
   ## Installation
   Access to GitHub.com and a code editor such as vscode is necessary. Click the GitHub link provided above to the APP REPO. Click on the green button that says Clone or Download and Choose how you would like to download: using the SSH/HTTPS keys or download the zip file. If using SSH/HTTPS Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. If using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and open it. 
 
@@ -122,19 +119,19 @@ Deployed Site link
   ## Credits and Reference
   The following links have helped us with this project. <br> [express-sessioon](https://www.npmjs.com/package/express-session) <br>  [Passport](http://www.passportjs.org/) <br>  [bcrypt](https://www.npmjs.com/package/bcryptjs) <br>  [How do sessions work in Express.js with Node.js?](https://stackoverflow.com/questions/5522020/how-do-sessions-work-in-express-js-with-node-js) <br> [sequelize](https://sequelize.org/master/index.html)  <br> [Foundation CSS Framework](https://get.foundation/) <br> [Mockaroo Data Generator](https://mockaroo.com/) <br> [Rover](https://www.rover.com/account/profile/details/)
 
-## Challenges and Progress
-* Time constrain was one of the biggest challenges. Four of us had less than 2 weeks (besides working full time) to complete this project, from ideation to deployment and presentation. We had to cut down on features so that we could build a functional scooter rathan than an automobile that is broken. 
-* It is first time for any of us to build something of this scale, from front-end (using express-handlebars and Foundation CSS) to server (node.js express.js) to database connection (express sequelize, mysql2), along with new tools for authentication such as passport, passort-local startegy, express-session and password hashing such as bcryptjs. Any changes including the ones that improve the APP could cause unexpected bugs and hours of our time to fix the hugs. 
-* 
 
-  
-## Tests
+  ## Challenges and Progress
+  * Time constrain was one of the biggest challenges. Four of us had less than 2 weeks (besides working full time) to complete this project, from ideation to deployment and presentation. We had to cut down on features so that we could build a functional scooter rathan than an automobile that is broken. 
+  * It is first time for any of us to build something of this scale, from front-end (using express-handlebars and Foundation CSS) to server (node.js express.js) to database connection (express sequelize, mysql2), along with new tools for authentication such as passport, passort-local startegy, express-session and password hashing such as bcryptjs. Any changes including the ones that improve the APP could cause unexpected bugs and hours of our time to fix the hugs. 
+  * 
+
+
+  ## Tests
   npm test
 
- ## Author Contact
+  ## Author Contact
   Contact the authors with any questions!<br>
   Github link: [imbingz](https://github.com/imbingz), [cboswel1](https://github.com/cboswel1), [tdmoore004](https://github.com/tdmoore004),  [vivid-green](https://github.com/vivid-green)<br>
-  
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
@@ -143,8 +140,10 @@ Deployed Site link
 
   <hr>
   <p align='center'><i>
-  This README was generated with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> Bing Z., </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
+  This project was built with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> Bing Z., </a> <a href="https://github.com/cboswel1"> Christian Boswell, </a><a href="https://github.com/tdmoore004"> Tannere Moore, </a><a href="https://github.com/vivid-green"> Zachary Creek</a>
 </i></p>
+
+
 
 
 
